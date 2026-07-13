@@ -3,5 +3,3 @@ node_modules/
 health-check-report.html
 health-check-report-*.html
 *.pdf
-branch_structure.json
-.gitignore

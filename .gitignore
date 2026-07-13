@@ -1,3 +1,12 @@
+# Secrets & Credentials (restored post-breach)
+.env
+.env.local
+.env.*.local
+*.key
+*.pem
+secrets/
+credentials/
+
 node_modules/
 .health-check.json
 health-check-report.html
